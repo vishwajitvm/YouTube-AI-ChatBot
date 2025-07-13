@@ -90,8 +90,8 @@ streamlit run app.py
 
 ## 👨‍💻 Created by
 
-**Vishwait VM**  
-📧 vishwaitmall50@gmail.com
+**Vishwajit VM**  
+📧 vishwajitmall50@gmail.com
 
 ---
 
