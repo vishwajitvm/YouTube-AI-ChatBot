@@ -44,8 +44,8 @@ It uses the video transcript to build a **semantic search knowledge base**, and 
 ### 1️⃣ Clone this repository
 
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/vishwajitvm/YouTube-AI-ChatBot.git
+cd YouTube-AI-ChatBot
 ```
 
 ### 2️⃣ Install dependencies
