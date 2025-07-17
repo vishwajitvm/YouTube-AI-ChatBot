@@ -81,6 +81,26 @@ streamlit run app.py
 
 ---
 
+## 📝 Blog
+
+Curious to learn how this project was built from scratch?
+
+Check out the **step-by-step beginner-friendly guide** on Hashnode:
+
+👉 [Build Your Own YouTube AI Chatbot using LangChain, Python, and Vector DB](https://vishwajitvm.hashnode.dev/build-your-own-youtube-ai-chatbot-using-langchain-python-and-vector-db-beginner-friendly-guide)
+
+This blog walks you through:
+
+- The motivation and concept behind the project  
+- How to set up LangChain, Google GenAI, and FAISS  
+- Integrating YouTube Transcript API  
+- Code breakdown and how everything connects  
+- Deploying and running the chatbot using Streamlit  
+
+Perfect for beginners exploring **AI + LLMs + Vector Search**!
+
+---
+
 ## ⚠️ Important
 
 - This app only works with videos that have **captions enabled** (either uploaded or auto-generated).
